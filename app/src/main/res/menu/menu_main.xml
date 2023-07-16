@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/view"
+        android:title="查看位置"
+        app:showAsAction="never"/>
+    <item android:id="@+id/distance"
+        android:title="查看距離"
+        app:showAsAction="never"/>
+    <item android:id="@+id/mode"
+        android:title="切換模式"
+        app:showAsAction="never"/>
+</menu>
